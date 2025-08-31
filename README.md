@@ -24,6 +24,10 @@ This is a single-file PHP application that implements the Hotel Room Reservation
 2. Copy `index.php` into your `htdocs` (or server root).
 3. Start Apache and open `http://localhost/unstop-assessment/`.
 
+##  Submission Documents & Links
+
+- **Google Doc (detailed explanation)**:  
+  [SwetaSharma_AssessmentSubmission](https://docs.google.com/document/d/1Qj9Uovq61gBVzBjgFiZmmpz6ner20GGNSq0zHOBfc8g/edit?usp=sharing)
 
 ## Files
 - `index.php` — application
